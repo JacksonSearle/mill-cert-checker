@@ -1,0 +1,49 @@
+{
+  "file": "TRT-23-9951.pdf",
+  "readBy": "Claude Code (read-certs skill)",
+  "mill": "Tri-River Tube",
+  "certNumber": "TRT-23-9951",
+  "certDate": "Oct 19, 2026",
+  "poNumber": "2430-0007",
+  "heatNumber": "T90518",
+  "spec": "ASME SA-106",
+  "grade": "B",
+  "productForm": "Pipe",
+  "size": {
+    "printed": "NPS 6 SCH 40",
+    "unit": null
+  },
+  "chemistry": {
+    "C": {
+      "printed": "0.18"
+    },
+    "Mn": {
+      "printed": "0.74"
+    },
+    "P": {
+      "printed": "0.014"
+    },
+    "S": {
+      "printed": "0.010"
+    },
+    "Si": {
+      "printed": "0.19"
+    }
+  },
+  "mechanical": {
+    "tensile": {
+      "printed": "58.4",
+      "unit": "ksi"
+    },
+    "yield": {
+      "printed": "38.2",
+      "unit": "ksi"
+    },
+    "elongation": {
+      "printed": "36",
+      "gauge": "2 in"
+    }
+  },
+  "notes": [],
+  "readAt": "2026-11-09T21:56:28.125Z"
+}

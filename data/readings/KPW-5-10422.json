@@ -1,0 +1,49 @@
+{
+  "file": "KPW-5-10422.pdf",
+  "readBy": "Claude Code (read-certs skill)",
+  "mill": "Kessler Plate Works",
+  "certNumber": "KPW 5-10422",
+  "certDate": "2026-10-02",
+  "poNumber": "2422-0012",
+  "heatNumber": "K7731A",
+  "spec": "SA-516",
+  "grade": "Gr. 70",
+  "productForm": "Plate",
+  "size": {
+    "printed": "1.500",
+    "unit": "in"
+  },
+  "chemistry": {
+    "C": {
+      "printed": "0.24"
+    },
+    "Mn": {
+      "printed": "1.12"
+    },
+    "P": {
+      "printed": "0.009"
+    },
+    "S": {
+      "printed": "0.003"
+    },
+    "Si": {
+      "printed": "0.31"
+    }
+  },
+  "mechanical": {
+    "tensile": {
+      "printed": "76.9",
+      "unit": "ksi"
+    },
+    "yield": {
+      "printed": "48.3",
+      "unit": "ksi"
+    },
+    "elongation": {
+      "printed": "25",
+      "gauge": "2 in"
+    }
+  },
+  "notes": [],
+  "readAt": "2026-11-09T21:56:28.125Z"
+}

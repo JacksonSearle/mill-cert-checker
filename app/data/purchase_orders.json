@@ -1,0 +1,30 @@
+{
+  "_note": "Fictional jobs and purchase orders for the demonstration.",
+  "orders": [
+    {
+      "po": "2417-0031",
+      "job": "2417",
+      "jobName": "Storage tank T-301",
+      "lines": [
+        { "line": 1, "spec": "SA-516-70", "form": "plate", "thicknessIn": 1.0, "description": "Plate, 1 in x 96 x 240" },
+        { "line": 2, "spec": "SA-516-70", "form": "plate", "thicknessIn": 0.5, "description": "Plate, 1/2 in x 96 x 240" }
+      ]
+    },
+    {
+      "po": "2422-0012",
+      "job": "2422",
+      "jobName": "Heat exchanger shell E-114",
+      "lines": [
+        { "line": 1, "spec": "SA-516-70", "form": "plate", "thicknessIn": 1.5, "description": "Plate, 1-1/2 in x 96 x 240" }
+      ]
+    },
+    {
+      "po": "2430-0007",
+      "job": "2430",
+      "jobName": "Process piping, unit 4",
+      "lines": [
+        { "line": 1, "spec": "SA-106-B", "form": "pipe", "size": "NPS 6 SCH 40", "description": "Seamless pipe, NPS 6 Sch 40" }
+      ]
+    }
+  ]
+}

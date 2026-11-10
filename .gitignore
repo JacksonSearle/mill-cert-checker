@@ -1,0 +1,4 @@
+node_modules/
+data/reviews.json
+.DS_Store
+real-test/

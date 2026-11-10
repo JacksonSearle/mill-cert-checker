@@ -1,0 +1,49 @@
+{
+  "file": "HR-88213.pdf",
+  "readBy": "Claude Code (read-certs skill)",
+  "mill": "Halden Ridge Steel",
+  "certNumber": "HR-88213",
+  "certDate": "09/14/2026",
+  "poNumber": "2417-0031",
+  "heatNumber": "N48213",
+  "spec": "ASME SA-516",
+  "grade": "70",
+  "productForm": "Plate",
+  "size": {
+    "printed": "1.000",
+    "unit": "in"
+  },
+  "chemistry": {
+    "C": {
+      "printed": ".22"
+    },
+    "Mn": {
+      "printed": "1.08"
+    },
+    "P": {
+      "printed": ".012"
+    },
+    "S": {
+      "printed": ".004"
+    },
+    "Si": {
+      "printed": ".25"
+    }
+  },
+  "mechanical": {
+    "tensile": {
+      "printed": "78.5",
+      "unit": "ksi"
+    },
+    "yield": {
+      "printed": "52.1",
+      "unit": "ksi"
+    },
+    "elongation": {
+      "printed": "24",
+      "gauge": "2 in"
+    }
+  },
+  "notes": [],
+  "readAt": "2026-11-09T21:56:28.118Z"
+}

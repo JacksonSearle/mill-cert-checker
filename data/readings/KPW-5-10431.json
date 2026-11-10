@@ -1,0 +1,51 @@
+{
+  "file": "KPW-5-10431.pdf",
+  "readBy": "Claude Code (read-certs skill)",
+  "mill": "Kessler Plate Works",
+  "certNumber": "KPW 5-10431",
+  "certDate": "2026-10-05",
+  "poNumber": "2422-0012",
+  "heatNumber": null,
+  "spec": "SA-516",
+  "grade": "Gr. 70",
+  "productForm": "Plate",
+  "size": {
+    "printed": "1.500",
+    "unit": "in"
+  },
+  "chemistry": {
+    "C": {
+      "printed": "0.23"
+    },
+    "Mn": {
+      "printed": "1.10"
+    },
+    "P": {
+      "printed": "0.011"
+    },
+    "S": {
+      "printed": "0.004"
+    },
+    "Si": {
+      "printed": "0.28"
+    }
+  },
+  "mechanical": {
+    "tensile": {
+      "printed": "77.4",
+      "unit": "ksi"
+    },
+    "yield": {
+      "printed": "49.0",
+      "unit": "ksi"
+    },
+    "elongation": {
+      "printed": "24",
+      "gauge": "2 in"
+    }
+  },
+  "notes": [
+    "The \"Melt / heat\" field is blank on the certificate."
+  ],
+  "readAt": "2026-11-09T21:56:28.125Z"
+}

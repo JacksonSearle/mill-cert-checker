@@ -1,0 +1,88 @@
+{
+  "_note": "ILLUSTRATIVE LIMITS. Entered from memory of the published specifications for a software demonstration. Verify every number against the current edition of the standard before relying on it. Chemistry is heat analysis in weight percent. Strength is in ksi.",
+  "SA-516-70": {
+    "title": "Pressure vessel plate, carbon steel",
+    "form": "plate",
+    "chemistry": {
+      "C": {
+        "maxByThicknessIn": [
+          {
+            "upTo": 0.5,
+            "max": 0.27
+          },
+          {
+            "upTo": 2,
+            "max": 0.28
+          },
+          {
+            "upTo": 4,
+            "max": 0.3
+          },
+          {
+            "upTo": null,
+            "max": 0.31
+          }
+        ]
+      },
+      "Mn": {
+        "min": 0.85,
+        "max": 1.2
+      },
+      "P": {
+        "max": 0.025
+      },
+      "S": {
+        "max": 0.025
+      },
+      "Si": {
+        "min": 0.15,
+        "max": 0.4
+      }
+    },
+    "mechanical": {
+      "tensileKsi": {
+        "min": 70,
+        "max": 90
+      },
+      "yieldKsi": {
+        "min": 38
+      },
+      "elongationPct": {
+        "minByGauge": {
+          "2in": 21,
+          "8in": 17
+        }
+      }
+    }
+  },
+  "SA-106-B": {
+    "title": "Seamless carbon steel pipe for high-temperature service",
+    "form": "pipe",
+    "chemistry": {
+      "C": {
+        "max": 0.3
+      },
+      "Mn": {
+        "min": 0.29,
+        "max": 1.06
+      },
+      "P": {
+        "max": 0.035
+      },
+      "S": {
+        "max": 0.035
+      },
+      "Si": {
+        "min": 0.1
+      }
+    },
+    "mechanical": {
+      "tensileKsi": {
+        "min": 60
+      },
+      "yieldKsi": {
+        "min": 35
+      }
+    }
+  }
+}

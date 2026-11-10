@@ -1,0 +1,25 @@
+{
+  "name": "mill-cert-checker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reads steel mill test reports, checks them against the specification and purchase order, and sends exceptions to a person.",
+  "bin": {
+    "cert": "bin/cert.js"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "build": "node bin/cert.js build",
+    "test": "node --test",
+    "samples": "node samples/make-samples.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "unpdf": "^1.4.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}

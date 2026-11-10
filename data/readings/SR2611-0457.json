@@ -1,0 +1,49 @@
+{
+  "file": "SR2611-0457.pdf",
+  "readBy": "Claude Code (read-certs skill)",
+  "mill": "Seorim Steel Co., Ltd.",
+  "certNumber": "SR2611-0457",
+  "certDate": "2026.09.29",
+  "poNumber": "2417-0031",
+  "heatNumber": "H61190",
+  "spec": "ASME SA-516",
+  "grade": "70",
+  "productForm": "Plate",
+  "size": {
+    "printed": "25.4",
+    "unit": "mm"
+  },
+  "chemistry": {
+    "C": {
+      "printed": "0.21"
+    },
+    "Mn": {
+      "printed": "1.15"
+    },
+    "P": {
+      "printed": "0.013"
+    },
+    "S": {
+      "printed": "0.002"
+    },
+    "Si": {
+      "printed": "0.33"
+    }
+  },
+  "mechanical": {
+    "tensile": {
+      "printed": "540",
+      "unit": "MPa"
+    },
+    "yield": {
+      "printed": "355",
+      "unit": "MPa"
+    },
+    "elongation": {
+      "printed": "23",
+      "gauge": "50 mm"
+    }
+  },
+  "notes": [],
+  "readAt": "2026-11-09T21:56:28.125Z"
+}

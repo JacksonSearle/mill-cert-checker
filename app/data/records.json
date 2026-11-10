@@ -1,0 +1,499 @@
+{
+  "entries": [
+    {
+      "record": {
+        "id": "HR-88213",
+        "file": "HR-88213.pdf",
+        "mill": "Halden Ridge Steel",
+        "certNumber": "HR-88213",
+        "certDate": "09/14/2026",
+        "poNumber": "2417-0031",
+        "heatNumber": "N48213",
+        "specPrinted": "ASME SA-516 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "1.000 in",
+        "thicknessIn": 1,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.22,
+          "Mn": 1.08,
+          "P": 0.012,
+          "S": 0.004,
+          "Si": 0.25,
+          "tensileKsi": 78.5,
+          "yieldKsi": 52.1,
+          "elongationPct": 24
+        },
+        "printed": {
+          "C": ".22",
+          "Mn": "1.08",
+          "P": ".012",
+          "S": ".004",
+          "Si": ".25",
+          "tensileKsi": "78.5 ksi",
+          "yieldKsi": "52.1 ksi",
+          "elongationPct": "24"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/HR-88213.pdf",
+      "preview": "data/pages/HR-88213.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "HR-88240",
+        "file": "HR-88240.pdf",
+        "mill": "Halden Ridge Steel",
+        "certNumber": "HR-88240",
+        "certDate": "09/21/2026",
+        "poNumber": "2417-0031",
+        "heatNumber": "N48377",
+        "specPrinted": "ASME SA-516 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "0.500 in",
+        "thicknessIn": 0.5,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.29,
+          "Mn": 1.02,
+          "P": 0.01,
+          "S": 0.006,
+          "Si": 0.22,
+          "tensileKsi": 81.2,
+          "yieldKsi": 55.4,
+          "elongationPct": 22
+        },
+        "printed": {
+          "C": ".29",
+          "Mn": "1.02",
+          "P": ".010",
+          "S": ".006",
+          "Si": ".22",
+          "tensileKsi": "81.2 ksi",
+          "yieldKsi": "55.4 ksi",
+          "elongationPct": "22"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/HR-88240.pdf",
+      "preview": "data/pages/HR-88240.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "HR-88302",
+        "file": "HR-88302.pdf",
+        "mill": "Halden Ridge Steel",
+        "certNumber": "HR-88302",
+        "certDate": "10/06/2026",
+        "poNumber": "2417-0031",
+        "heatNumber": "N48590",
+        "specPrinted": "ASME SA-516 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "1.000 in",
+        "thicknessIn": 1,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.23,
+          "Mn": 1.06,
+          "P": 0.011,
+          "S": 0.005,
+          "Si": 0.24,
+          "tensileKsi": 79.8,
+          "yieldKsi": 53,
+          "elongationPct": 23
+        },
+        "printed": {
+          "C": ".23",
+          "Mn": "1.06",
+          "P": ".011",
+          "S": ".005",
+          "Si": ".24",
+          "tensileKsi": "79.8 ksi",
+          "yieldKsi": "53.0 ksi",
+          "elongationPct": "23"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": [
+          "Scanned copy, slightly rotated and blurred. All values were read from the image."
+        ]
+      },
+      "verification": {
+        "hasTextLayer": false,
+        "notFound": []
+      },
+      "pdf": "data/certs/HR-88302.pdf",
+      "preview": "data/pages/HR-88302.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "KPW-5-10422",
+        "file": "KPW-5-10422.pdf",
+        "mill": "Kessler Plate Works",
+        "certNumber": "KPW 5-10422",
+        "certDate": "2026-10-02",
+        "poNumber": "2422-0012",
+        "heatNumber": "K7731A",
+        "specPrinted": "SA-516 Gr. 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "1.500 in",
+        "thicknessIn": 1.5,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.24,
+          "Mn": 1.12,
+          "P": 0.009,
+          "S": 0.003,
+          "Si": 0.31,
+          "tensileKsi": 76.9,
+          "yieldKsi": 48.3,
+          "elongationPct": 25
+        },
+        "printed": {
+          "C": "0.24",
+          "Mn": "1.12",
+          "P": "0.009",
+          "S": "0.003",
+          "Si": "0.31",
+          "tensileKsi": "76.9 ksi",
+          "yieldKsi": "48.3 ksi",
+          "elongationPct": "25"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/KPW-5-10422.pdf",
+      "preview": "data/pages/KPW-5-10422.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "KPW-5-10431",
+        "file": "KPW-5-10431.pdf",
+        "mill": "Kessler Plate Works",
+        "certNumber": "KPW 5-10431",
+        "certDate": "2026-10-05",
+        "poNumber": "2422-0012",
+        "heatNumber": null,
+        "specPrinted": "SA-516 Gr. 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "1.500 in",
+        "thicknessIn": 1.5,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.23,
+          "Mn": 1.1,
+          "P": 0.011,
+          "S": 0.004,
+          "Si": 0.28,
+          "tensileKsi": 77.4,
+          "yieldKsi": 49,
+          "elongationPct": 24
+        },
+        "printed": {
+          "C": "0.23",
+          "Mn": "1.10",
+          "P": "0.011",
+          "S": "0.004",
+          "Si": "0.28",
+          "tensileKsi": "77.4 ksi",
+          "yieldKsi": "49.0 ksi",
+          "elongationPct": "24"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": [
+          "The \"Melt / heat\" field is blank on the certificate."
+        ]
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/KPW-5-10431.pdf",
+      "preview": "data/pages/KPW-5-10431.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "SR2611-0457",
+        "file": "SR2611-0457.pdf",
+        "mill": "Seorim Steel Co., Ltd.",
+        "certNumber": "SR2611-0457",
+        "certDate": "2026.09.29",
+        "poNumber": "2417-0031",
+        "heatNumber": "H61190",
+        "specPrinted": "ASME SA-516 70",
+        "specKey": "SA-516-70",
+        "specKeys": [
+          "SA-516-70"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "25.4 mm",
+        "thicknessIn": 1,
+        "gauge": "2in",
+        "gaugePrinted": "50 mm",
+        "values": {
+          "C": 0.21,
+          "Mn": 1.15,
+          "P": 0.013,
+          "S": 0.002,
+          "Si": 0.33,
+          "tensileKsi": 78.3,
+          "yieldKsi": 51.5,
+          "elongationPct": 23
+        },
+        "printed": {
+          "C": "0.21",
+          "Mn": "1.15",
+          "P": "0.013",
+          "S": "0.002",
+          "Si": "0.33",
+          "tensileKsi": "540 MPa",
+          "yieldKsi": "355 MPa",
+          "elongationPct": "23"
+        },
+        "conversions": [
+          {
+            "field": "tensileKsi",
+            "from": "540 MPa",
+            "to": "78.3 ksi"
+          },
+          {
+            "field": "yieldKsi",
+            "from": "355 MPa",
+            "to": "51.5 ksi"
+          },
+          {
+            "field": "thicknessIn",
+            "from": "25.4 mm",
+            "to": "1 in"
+          }
+        ],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/SR2611-0457.pdf",
+      "preview": "data/pages/SR2611-0457.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "SR2611-0502",
+        "file": "SR2611-0502.pdf",
+        "mill": "Seorim Steel Co., Ltd.",
+        "certNumber": "SR2611-0502",
+        "certDate": "2026.10.08",
+        "poNumber": "2422-0012",
+        "heatNumber": "H61342",
+        "specPrinted": "ASME SA-516 60",
+        "specKey": "SA-516-60",
+        "specKeys": [
+          "SA-516-60"
+        ],
+        "productForm": "plate",
+        "sizePrinted": "38.1 mm",
+        "thicknessIn": 1.5,
+        "gauge": "2in",
+        "gaugePrinted": "50 mm",
+        "values": {
+          "C": 0.19,
+          "Mn": 1.05,
+          "P": 0.012,
+          "S": 0.003,
+          "Si": 0.27,
+          "tensileKsi": 68.2,
+          "yieldKsi": 44.2,
+          "elongationPct": 27
+        },
+        "printed": {
+          "C": "0.19",
+          "Mn": "1.05",
+          "P": "0.012",
+          "S": "0.003",
+          "Si": "0.27",
+          "tensileKsi": "470 MPa",
+          "yieldKsi": "305 MPa",
+          "elongationPct": "27"
+        },
+        "conversions": [
+          {
+            "field": "tensileKsi",
+            "from": "470 MPa",
+            "to": "68.2 ksi"
+          },
+          {
+            "field": "yieldKsi",
+            "from": "305 MPa",
+            "to": "44.2 ksi"
+          },
+          {
+            "field": "thicknessIn",
+            "from": "38.1 mm",
+            "to": "1.5 in"
+          }
+        ],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/SR2611-0502.pdf",
+      "preview": "data/pages/SR2611-0502.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "TRT-23-9917",
+        "file": "TRT-23-9917.pdf",
+        "mill": "Tri-River Tube",
+        "certNumber": "TRT-23-9917",
+        "certDate": "Oct 12, 2026",
+        "poNumber": "2430-0007",
+        "heatNumber": "T90455",
+        "specPrinted": "ASME SA-106 B",
+        "specKey": "SA-106-B",
+        "specKeys": [
+          "SA-106-B"
+        ],
+        "productForm": "pipe",
+        "sizePrinted": "NPS 6 SCH 40",
+        "thicknessIn": null,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.21,
+          "Mn": 0.88,
+          "P": 0.011,
+          "S": 0.008,
+          "Si": 0.22,
+          "tensileKsi": 71.2,
+          "yieldKsi": 46.8,
+          "elongationPct": 33
+        },
+        "printed": {
+          "C": "0.21",
+          "Mn": "0.88",
+          "P": "0.011",
+          "S": "0.008",
+          "Si": "0.22",
+          "tensileKsi": "71.2 ksi",
+          "yieldKsi": "46.8 ksi",
+          "elongationPct": "33"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/TRT-23-9917.pdf",
+      "preview": "data/pages/TRT-23-9917.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    },
+    {
+      "record": {
+        "id": "TRT-23-9951",
+        "file": "TRT-23-9951.pdf",
+        "mill": "Tri-River Tube",
+        "certNumber": "TRT-23-9951",
+        "certDate": "Oct 19, 2026",
+        "poNumber": "2430-0007",
+        "heatNumber": "T90518",
+        "specPrinted": "ASME SA-106 B",
+        "specKey": "SA-106-B",
+        "specKeys": [
+          "SA-106-B"
+        ],
+        "productForm": "pipe",
+        "sizePrinted": "NPS 6 SCH 40",
+        "thicknessIn": null,
+        "gauge": "2in",
+        "gaugePrinted": "2 in",
+        "values": {
+          "C": 0.18,
+          "Mn": 0.74,
+          "P": 0.014,
+          "S": 0.01,
+          "Si": 0.19,
+          "tensileKsi": 58.4,
+          "yieldKsi": 38.2,
+          "elongationPct": 36
+        },
+        "printed": {
+          "C": "0.18",
+          "Mn": "0.74",
+          "P": "0.014",
+          "S": "0.010",
+          "Si": "0.19",
+          "tensileKsi": "58.4 ksi",
+          "yieldKsi": "38.2 ksi",
+          "elongationPct": "36"
+        },
+        "conversions": [],
+        "problems": [],
+        "readerNotes": []
+      },
+      "verification": {
+        "hasTextLayer": true,
+        "notFound": []
+      },
+      "pdf": "data/certs/TRT-23-9951.pdf",
+      "preview": "data/pages/TRT-23-9951.jpg",
+      "readBy": "Claude Code (read-certs skill)"
+    }
+  ]
+}
